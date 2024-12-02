@@ -41,6 +41,11 @@ body {
   margin-top: 20px;
 }
 
+table a {
+	margin-left: 10px;
+	text-decoration: none;
+	color: #D9D9D9;
+
 @media (max-width: 578px) {
   a .navbar-brand {
     font-size: 0.9rem;
