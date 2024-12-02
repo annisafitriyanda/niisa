@@ -36,12 +36,6 @@ body {
     border-radius: 5px;  
 }
 
-
-.carousel-inner img {
-	width: 500px;
-	height: 500px;
-}
-
 .card {
 	margin: 45px;
 }
