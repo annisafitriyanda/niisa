@@ -40,6 +40,10 @@ body {
 	margin: 45px;
 }
 
+.card:hover {
+	transform: scale(1.03);
+}
+
 .card-body {
 	background-color: #000112;
 }
