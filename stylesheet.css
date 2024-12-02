@@ -1,0 +1,96 @@
+body {
+	background: linear-gradient(to bottom right, #000000, #29062B, #000A6B, #000000, #29062B, #000000);
+}
+
+
+.navbar {
+	background: linear-gradient(to right, #000000, #000640);
+}
+
+.nav-link {
+    padding: 30px; /* Memberikan jarak antara menu */
+    text-transform: uppercase; /* Teks menjadi huruf besar */
+    font-weight: bold; /* Menebalkan teks */
+}
+
+.container-fluid img {
+	width: 120px;
+	height:120px;
+}
+
+.container-fluid a {
+	color: #D9D9D9;
+	font-family: 'Source Code Pro', monospace;
+}
+
+
+/* Navbar Brand (Logo and Text) */
+.navbar-brand {
+    font-size: 34px; 
+    font-weight: bold;
+    color: #ecf0f1;  
+    text-transform: uppercase; 
+    margin-left: 10px;
+    text-decoration: none;  
+}
+
+
+.navbar-nav .nav-link:hover {
+    color: purple;  
+    border-radius: 5px;  
+}
+
+
+.carousel-inner img {
+	width: 500px;
+	height: 500px;
+}
+
+.card {
+	margin: 45px;
+}
+
+.card-body {
+	background-color: #000112;
+}
+
+.card-body h5 {
+	color: #D9D9D9;
+}
+
+
+#testimoni {
+	margin-bottom: 70px;
+}
+
+#testimoni img {
+	width: 150px;
+}
+
+.tulisan {
+	color: #D9D9D9;
+}
+
+.avatar {
+	width: 200px;
+}
+
+.star {
+	color: orange;
+}
+
+#media {
+	margin: 20px;
+}
+
+table {
+	color: #D9D9D9;
+}
+
+iframe {
+	width: 100%;
+}
+
+td {
+	color: ;
+}

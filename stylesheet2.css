@@ -1,0 +1,79 @@
+body {
+  background: linear-gradient(to bottom right, #000000, #29062B, #000A6B, #000000, #29062B, #000000);
+}
+
+
+.navbar {
+  background: linear-gradient(to right, #000000, #000640);
+}
+
+.nav-link {
+    padding: 30px; 
+    text-transform: uppercase; 
+    font-weight: bold; 
+}
+
+.container-fluid img {
+  width: 120px;
+  height:120px;
+}
+
+.container-fluid a {
+  color: #D9D9D9;
+  font-family: 'Source Code Pro', monospace;
+}
+
+
+.navbar-brand {
+    font-size: 34px;  
+    font-weight: bold;
+    color: #ecf0f1;  
+    text-transform: uppercase;  
+    margin-left: 10px;
+    text-decoration: none;  
+}
+
+
+.navbar-nav .nav-link:hover {
+    color: purple;  
+    border-radius: 5px;  
+}
+
+.tulisan {
+  color: #D9D9D9;
+}
+
+table {
+  color: #D9D9D9;
+}
+
+iframe {
+  width: 100%;
+}
+
+td {
+  color: ;
+}
+
+
+#produk h2, #produk p {
+    color: #D9D9D9; 
+}
+
+
+.produk {
+  position: absolute;
+  right: 10%;
+  bottom: -30%;
+  width: 300px;
+  height: 500px;
+  background-color: black;
+  border-radius: 21px;
+  transform: rotate(30deg);
+}
+
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    flex: 1;
+  }
+}
