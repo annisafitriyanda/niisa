@@ -7,10 +7,9 @@ body {
 	background: linear-gradient(to right, #000000, #000640);
 }
 
-.nav-link {
-    padding: 30px; /* Memberikan jarak antara menu */
-    text-transform: uppercase; /* Teks menjadi huruf besar */
-    font-weight: bold; /* Menebalkan teks */
+.nav-link { 
+    text-transform: uppercase;
+    font-weight: bold; 
 }
 
 .container-fluid img {
@@ -23,14 +22,11 @@ body {
 	font-family: 'Source Code Pro', monospace;
 }
 
-
-/* Navbar Brand (Logo and Text) */
 .navbar-brand {
     font-size: 34px; 
     font-weight: bold;
     color: #ecf0f1;  
     text-transform: uppercase; 
-    margin-left: 10px;
     text-decoration: none;  
 }
 
