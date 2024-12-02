@@ -14,8 +14,8 @@ body {
 }
 
 .container-fluid img {
-  width: 120px;
-  height:120px;
+  width: 80px;
+  height:80px;
 }
 
 .container-fluid a {
@@ -76,4 +76,10 @@ td {
   .flex-md-equal > * {
     flex: 1;
   }
+}
+
+@media (max-width: 578px) {
+  a .navbar-brand {
+    font-size: 0.9rem;
+}
 }
