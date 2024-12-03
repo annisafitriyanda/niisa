@@ -86,6 +86,11 @@ td {
 	color: ;
 }
 
+@media (height: 350px)
+	iframe {
+		width: 100%;
+}
+
 @media (max-width: 578px) {
 	a .navbar-brand {
 		font-size: 0.9rem;
