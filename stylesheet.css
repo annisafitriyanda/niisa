@@ -86,7 +86,8 @@ td {
 	color: ;
 }
 
-map-container {
+
+.map-container iframe {
 	width: 100%
 }
 		
