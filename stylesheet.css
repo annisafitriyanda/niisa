@@ -87,7 +87,7 @@ td {
 }
 
 .map-container iframe {
-	border:20; 
+	border:0; 
 	border-radius: 20px;
 }
 		
